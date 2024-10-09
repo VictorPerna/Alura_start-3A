@@ -5,8 +5,7 @@ async function visualizarInformacoesGlobais() {
 
     const dados = await res.json()
 
-
-    
     console.log(dados);
+    const paragrafo = document.createElement('p')
 }
 visualizarInformacoesGlobais()

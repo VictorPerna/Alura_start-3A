@@ -1,9 +1,9 @@
 @import url('https://fonts.googleapis.com/css2?family=Edu+AU+VIC+WA+NT+Guides:wght@400..700&display=swap&#39');
 
 :root{
-    --bg-color:#E9FF97;
-    --primary-color:hsl(313, 100%, 75%);
-    --secudary-color:#d85b3f;
+    --bg-color:#ffffff;
+    --primary-color:hsl(313, 81%, 63%);
+    --secudary-color:#5600ad;
     --font:"Roboto Condensed", cursive;
 }
 
